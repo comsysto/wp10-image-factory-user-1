@@ -1,1 +1,1 @@
-# wp10-image-factory-user
+# WP10 Image Factory - Example User Repository
