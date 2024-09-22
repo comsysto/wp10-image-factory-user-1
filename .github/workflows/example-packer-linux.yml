@@ -1,11 +1,11 @@
-name: Example Packer Build
+name: Example Packer Linux Build
 
 on:
   workflow_dispatch:
   push:
     paths:
       - ".github/workflows/example-packer.yml"
-      - "packer/example/**"
+      - "packer/example-linux/**"
 
 jobs:
   call-workflow:
