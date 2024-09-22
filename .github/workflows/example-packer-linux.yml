@@ -1,4 +1,4 @@
-name: Example Packer Linux Build
+name: Packer Build - Linux
 
 on:
   workflow_dispatch:

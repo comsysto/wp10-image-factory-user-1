@@ -1,4 +1,4 @@
-name: Example Docker Build
+name: Docker Build
 
 # Secrets that must be set in user repo:
 #   - REGISTRY
