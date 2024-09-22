@@ -15,4 +15,3 @@ jobs:
       docker-dir: docker/example
       platform: arm64
     secrets: inherit
-
