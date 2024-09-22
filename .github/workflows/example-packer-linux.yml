@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - ".github/workflows/example-packer.yml"
+      - ".github/workflows/example-packer-linux.yml"
       - "packer/example-linux/**"
 
 jobs:
