@@ -17,4 +17,5 @@ jobs:
       image-name: silvija-test
       docker-dir: docker/example
       platform: arm64
+      registry: ${{ env.REGISTRY }}
     secrets: inherit
